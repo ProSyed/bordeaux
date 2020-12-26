@@ -5,7 +5,7 @@ mov al, 'o'
 int 0x10
 mov al, 'r'
 int 0x10
-mov al, 'd
+mov al, 'd'
 int 0x10
 mov al, 'e'
 int 0x10
